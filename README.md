@@ -1,6 +1,6 @@
 ## Improving Local Minimal Intensity Prior-based Algorithms for Blind Image Deblurring
 
-VE556/ECE6605J Project Fall 2024 Group
+VE556/ECE6605J Project Fall 2024 Group 1
 
 Authors: Wentao Chen, Keyi Deng, Yifei Sun, and Zhaochen Yu
 
